@@ -1,0 +1,9 @@
+.custom-card {
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .custom-card:hover {
+    box-shadow: 0 0 10px rgb(126, 37, 34);
+    cursor: pointer;
+  }
+  
